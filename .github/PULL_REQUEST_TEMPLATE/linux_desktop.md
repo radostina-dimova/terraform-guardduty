@@ -11,16 +11,16 @@ Please describe the tests that you ran to verify your changes are working as exp
 
 # Functionality Checklist:
 
-- [ ] Lab opens as expected
+- [x] Lab opens as expected
     - [ ] As instructor
     - [ ] As student
-- [ ] Application launches via Desktop icon
+- [x] Application launches via Desktop icon
     - [ ] IntelliJ 
     - [ ] Eclipse
     - [ ] Google Chrome
     - [ ] VSCode
     - [ ] Wireshark
-- [ ] Application launches from Terminal
+- [x] Application launches from Terminal
    - [ ] `code` opens VSCode
    - [ ] `google-chrome` opens Google Chrome
    - [ ] `wireshark` launches Wireshark
