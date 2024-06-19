@@ -8,20 +8,15 @@ Please describe the changes this PR introduces and why they are required.
 
 Please describe the tests that you ran to verify your changes are working as expected.
 
-
 # Functionality Checklist:
 
 - [ ] Lab opens as expected
     - [ ] As instructor
     - [ ] As student
-- [ ] Application launches via Desktop icon
-    - [ ] IntelliJ 
-    - [ ] Eclipse
-    - [ ] Google Chrome
-    - [ ] VSCode
-    - [ ] Wireshark
-- [ ] Application launches from Terminal
-   - [ ] `code` opens VSCode
-   - [ ] `google-chrome` opens Google Chrome
-   - [ ] `wireshark` launches Wireshark
+- [ ] VSCode IDE 
+    - [ ] Run “Open Folder” 
+    - [ ] Select the `/home/coder/project` folder.
+- [ ] VSCode Terminal
+    - [ ] Open the Terminal via the Terminal tab in the VSCode toolbar.
+    - [ ] Run `touch /home/coder/project/test.txt` to make sure you have write access to the `project/`` directory.
 
