@@ -1,9 +1,4 @@
-# Description:
+# Please go the the `Preview` tab and select the appropriate sub-template based on change introduced:
 
-JIRA link # (issue)
-
-Please describe the changes this PR introduces and why they are required.
-
-# Testing performed:
-
-Please describe the tests that you ran to verify your changes are working as expected.
+* [Group A](?expand=1&template=linux_desktop.md)
+* [Group B](?expand=1&template=virtual_browser.md)
