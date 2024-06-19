@@ -51,5 +51,5 @@ variable "guardduty_notification_endpoint" {
     description = "Endpoint for the GuardDuty SNS notifications"
 }
 variable "guardduty_subscription_protocol" {
-    description = "Protocol for the GuardDuty SNS notifications 1"
+    description = "Protocol for the GuardDuty SNS notifications 2"
 }
