@@ -15,6 +15,6 @@ resource "aws_cloudwatch_event_target" "sns" {
       title = "$.detail.title"
     }
 
-    input_template = "\"GuardDuty finding: <title>\""
+    input_template = "\"GuardDuty finding 1: <title>\""
   }
 }
